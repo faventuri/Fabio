@@ -1,0 +1,39 @@
+body {
+    font-family: arial;
+    background-image: url("https://images.alphacoders.com/545/545752.jpg");
+    background-size: auto 100vh;
+    text-align: center;
+    color: teal;
+    height: 100vh;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  .menu{
+    background-color: black;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around
+  }
+  .menu li {
+    list-style: none;
+    }
+  .site-subtitle,
+  .site-title {
+    collor: teal;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
+  
