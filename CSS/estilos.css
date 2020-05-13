@@ -1,0 +1,38 @@
+body {
+  font-family: arial;
+  background-image: url("https://live.staticflickr.com/302/19443085366_90da9852a0_b.jpg");
+  background-size: 100% 100vh;
+  text-align: center;
+  color: white;
+  height: all-scroll;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: italic;
+}
+.menu{
+  background-color: black;
+}
+
+.menu ul{
+  display: flex;
+  justify-content: space-around
+}
+.menu li {
+  list-style: none;
+  }
+.site-subtitle,
+.site-title {
+  collor: white;
+  text-align: center;
+}
+
+.site-subtitle {
+  font-style: italic;
+}
+
